@@ -32,10 +32,10 @@
 
   ### HTML:
 
-  These elements apply to the web page: The <!DOCTYPE> declaration , HTML , Head, Title , Body, Header, Paragraph, Section, Main, Nav, Tag, Img, link, footer elements. <hr/>
+  These elements apply to the web page: The <!DOCTYPE> declaration, HTML, Head, Title, Body, Header, Paragraph, Section, Main, Nav, Tag, Img, links. <hr/>
 
   ### CSS:
 
-  These styles apply to all elements in the web page : box-sizing, padding, margin, a. selector, Box model..<hr/>
+  These styles apply to all elements in the webpage : box-sizing, padding, margin, a. selector, Box-model.<hr/>
 
-  ![HorisonGroup](assets/images)
+  ![HorisonGroup](./Develop/assets/images/screencapture-file-Users-mdmamatajurrashed-Desktop-bootcamp-urban-octo-telegram-Develop-index-html-2023-03-22-16_54_44.png) <hr/>
