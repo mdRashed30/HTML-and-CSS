@@ -1,41 +1,78 @@
-# HTML and CSS Guide to Horison Insurance Group <hr/>
+# Horison Insurance Group
 
-### About This Webpage :
+## Description
 
-- This file serves as a guide for HTML and CSS style guide for Horison Insurance Group. The styles are organized based on the sections of the web page.
+This file serves as a guide for HTML and CSS style guide for Horison Insurance Group. The styles are organized based on the sections of the web page.
 
-- [ Deployment ](https://github.com/mdRashed30/Weekly-Challenge--2023.git) <hr/>
+<hr>
+## Table of Contents
 
-### Build With
+1. [The Task](#the-task)
+2. [Install](#install)
+3. [Languages Used](#languages-used)
+4. [Screenshot](#Video)
+5. [Links](#links)
+6. [acknowledgements](#acknowledgements)
+7. [credit](#credit)
 
-- HTML
-- CSS <hr/>
+<hr>
 
-### User Story:
+## The Task
+
+### User Story
 
 - AS A marketing agency I WANT a codebase that follows accessibility standards
-  SO THAT our own site is optimized for search engines <hr/>
+- SO THAT our own site is optimized for search engines
 
-### Acceptance Criteria:
+<hr>
 
-- GIVEN a webpage meets accessibility standards <br/>
-  WHEN I view the source code<br/>
-  THEN I find semantic HTML elements <br/>
-  WHEN I view the structure of the HTML elements <br/>
-  THEN I find that the elements follow a logical structure independent of styling and positioning <br/>
-  WHEN I view the image elements <br/>
-  THEN I find accessible alt attributes <br/>
-  WHEN I view the heading attributes <br/>
-  THEN they fall in sequential order <br/>
-  WHEN I view the title element <br/>
-  THEN I find a concise, descriptive title <br/> <hr/>
+### Acceptance Criteria
 
-  ### HTML:
+- GIVEN a webpage meets accessibility standards
+- WHEN I view the source code
+- THEN I find semantic HTML elements
+- WHEN I view the structure of the HTML elements
+- THEN I find that the elements follow a logical structure independent of styling and positioning
+- WHEN I view the image elements
+- THEN I find accessible alt attributes
+- WHEN I view the heading attributes
+- THEN they fall in sequential order
+- WHEN I view the title element
+- THEN I find a concise, descriptive title
 
-  These elements apply to the web page: The <!DOCTYPE> declaration, HTML, Head, Title, Body, Header, Paragraph, Section, Main, Nav, Tag, Img, links. <hr/>
+## Install
 
-  ### CSS:
+Steps to run application :
 
-  These styles apply to all elements in the webpage : box-sizing, padding, margin, a. selector, Box-model.<hr/>
+- Open the clone file
 
-  ![HorisonGroup](./Develop/assets/images/screencapture-file-Users-mdmamatajurrashed-Desktop-bootcamp-urban-octo-telegram-Develop-index-html-2023-03-22-16_54_44.png) <hr/>
+## Languages Used
+
+- HTML
+- CSS
+
+<hr>
+
+## Screenshot:
+
+![Horison Group](assets/images/screencapture-file-Users-mdmamatajurrashed-Desktop-bootcamp-urban-octo-telegram-Develop-index-html-2023-03-22-16_54_44.png)
+
+<hr>
+
+## links
+
+- [Github Repo](https://github.com/mdRashed30/HTML-and-CSS)
+
+- [Deploy](https://mdrashed30.github.io/HTML-and-CSS/)
+
+<hr>
+
+## acknowledgements :
+
+-- Video tutorial
+
+-- TA
+
+<hr>
+
+## Credit:
